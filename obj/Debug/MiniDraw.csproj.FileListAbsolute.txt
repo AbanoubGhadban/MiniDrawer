@@ -1,0 +1,16 @@
+c:\users\golden\documents\visual studio 2015\Projects\MiniDraw\MiniDraw\bin\Debug\MiniDraw.exe
+c:\users\golden\documents\visual studio 2015\Projects\MiniDraw\MiniDraw\bin\Debug\MiniDraw.pdb
+c:\users\golden\documents\visual studio 2015\Projects\MiniDraw\MiniDraw\obj\Debug\MiniDraw.csprojResolveAssemblyReference.cache
+c:\users\golden\documents\visual studio 2015\Projects\MiniDraw\MiniDraw\obj\Debug\MiniDraw.Properties.Resources.resources
+c:\users\golden\documents\visual studio 2015\Projects\MiniDraw\MiniDraw\obj\Debug\MiniDraw.csproj.GenerateResource.Cache
+c:\users\golden\documents\visual studio 2015\Projects\MiniDraw\MiniDraw\obj\Debug\MiniDraw.exe
+c:\users\golden\documents\visual studio 2015\Projects\MiniDraw\MiniDraw\obj\Debug\MiniDraw.pdb
+c:\users\golden\documents\visual studio 2015\Projects\MiniDraw\MiniDraw\obj\Debug\MiniDraw.Form1.resources
+C:\Users\Golden\Documents\Visual Studio 2015\Projects\MiniDraw - Copy\MiniDraw\obj\Debug\MiniDraw.exe
+C:\Users\Golden\Documents\Visual Studio 2015\Projects\MiniDraw - Copy\MiniDraw\obj\Debug\MiniDraw.pdb
+C:\Users\Golden\Documents\Visual Studio 2015\Projects\MiniDraw - Copy\MiniDraw\bin\Debug\MiniDraw.exe
+C:\Users\Golden\Documents\Visual Studio 2015\Projects\MiniDraw - Copy\MiniDraw\bin\Debug\MiniDraw.pdb
+C:\Users\Golden\Documents\Visual Studio 2015\Projects\MiniDraw - Copy\MiniDraw\obj\Debug\MiniDraw.csprojResolveAssemblyReference.cache
+C:\Users\Golden\Documents\Visual Studio 2015\Projects\MiniDraw - Copy\MiniDraw\obj\Debug\MiniDraw.Form1.resources
+C:\Users\Golden\Documents\Visual Studio 2015\Projects\MiniDraw - Copy\MiniDraw\obj\Debug\MiniDraw.Properties.Resources.resources
+C:\Users\Golden\Documents\Visual Studio 2015\Projects\MiniDraw - Copy\MiniDraw\obj\Debug\MiniDraw.csproj.GenerateResource.Cache
